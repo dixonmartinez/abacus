@@ -12,7 +12,7 @@ Check the live demo here: [http://bhrigu.me](http://bhrigu.me)
 
 ```
   % cd octopress
-  % git clone https://github.com/bhrigu123/abacus .themes/abacus
+  % git clone https://github.com/dixonmartinez/abacus .themes/abacus
   % rake install['abacus']
   % rake generate
 ```
